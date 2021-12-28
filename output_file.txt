@@ -1,0 +1,12 @@
+Need Matrix :
+0 1 0 0 2 
+0 2 1 0 0 
+1 0 3 0 0 
+0 0 1 1 1 
+Safe sequence is :
+D A C B 
+Change in available resource matrix :
+1 1 3 2 2 
+2 1 5 3 3 
+3 2 5 4 3 
+5 2 6 5 3 
